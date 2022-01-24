@@ -1,5 +1,5 @@
 const helloJson = {
-    'message': 'Hello JSON'
+    message: 'Hello JSON'
 }
 
 module.exports = helloJson;
