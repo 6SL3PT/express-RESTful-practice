@@ -1,6 +1,6 @@
-# JS & Restful Practice
+# Express JS & Restful Practice
 This repositories is created for practice & self-studying purpose.
-A simple scripts to practice JS & RESTful with Express.jS Framework, 
+A simple scripts to practice Express.js Framework & RESTful, 
 which I studied everything from the internet.
 
 ## File Contain
