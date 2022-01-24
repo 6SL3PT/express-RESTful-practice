@@ -10,7 +10,7 @@ which I studied everything from the internet.
 ### Folder
 
 - data : Stored simple arrays/items to use as data, and to try working with **module.exports**.
-- middleware : Stored **moment.js package** to use on log.
+- middleware : Stored **moment.js load & use script** to use on log.
 - node_modules : Stored some **tools** I use in this project, and nodemon to get **devDependencies**.
 - routes/ops : Stored .js files which contain **respond & request** to REST API methods, and to try working with **router**.
 
