@@ -3,7 +3,7 @@ This repositories is created for practice & self-studying purpose.
 A simple scripts to practice Express.js Framework & RESTful, 
 which I studied everything from the internet.
 
-## File Contain
+## File Contains
 
 > **Note**: This may change from time to time
 
