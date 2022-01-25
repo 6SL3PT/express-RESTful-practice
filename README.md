@@ -3,6 +3,8 @@ This repositories is created for practice & self-studying purpose.
 A simple scripts to practice Express.js Framework & RESTful, 
 which I studied everything from the internet.
 
+I'm still at the beginners level, if you have any advice I'm willing to expand my knowledge.
+
 ## File Contains
 
 > **Note**: This may change from time to time
