@@ -6,6 +6,10 @@ const app = express();
 app.use(express.json());
 app.use(express.urlencoded({extended: false}));
 
+app.get('/', (req, res) => {
+    res.send('Please enter directory path.')
+});
+
 app.use('/hello', require('./routes/ops/hello_ops'));
 app.use('/helloJson', require('./routes/ops/helloJson_ops'));
 app.use('/concat', require('./routes/ops/concat_ops'));
