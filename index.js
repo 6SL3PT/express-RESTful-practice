@@ -7,7 +7,7 @@ app.use(express.json());
 app.use(express.urlencoded({extended: false}));
 
 app.get('/', (req, res) => {
-    res.send('Please enter directory path.')
+    res.send('Please enter directory path.');
 });
 
 app.use('/hello', require('./routes/ops/hello_ops'));
