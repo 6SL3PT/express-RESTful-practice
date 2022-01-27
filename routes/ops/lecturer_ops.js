@@ -4,7 +4,7 @@ const lecturerDetail = require('../../data/LecturerDetail');
 const router = express.Router();
 
 router.get('/', (req, res) => {
-    res.send("The task didn't have GET method for lecturer, better luck next time ;)");
+    return res.send("The task didn't have GET method for lecturer, better luck next time ;)");
 });
 
 router.post('/', (req, res) => {
